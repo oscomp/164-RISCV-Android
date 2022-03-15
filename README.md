@@ -29,7 +29,7 @@
  - 了解u-boot以及内核的构建
  - 了解android系统移植
  - 了解android系统开机启动流程
- - 
+ 
 ## 参考文档
 项目可以基于源码：https://mirrors.tuna.tsinghua.edu.cn/help/AOSP/
 
@@ -44,6 +44,7 @@
  - 选择本项目的同学也可提出自己的新想法，得到导师认可支持后亦可加入预期目标或进阶特性
 
 ## 说明
-RISC-V平台可选择starfive，HiFive Unmatched等riscv平台，参考链接：
-https://www.starfivetech.com/
-https://www.sifive.com/boards/hifive-unmatched
+RISC-V平台可选择starfive，HiFive Unmatched等riscv平台，参考链接：  
+https://www.starfivetech.com/  
+https://www.sifive.com/boards/hifive-unmatched  
+
